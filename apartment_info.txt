@@ -1,0 +1,31 @@
+(PRICE 650$)388 Rue Saint-Jacques, Montreal, QC H2Y 1S1::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,NDG;Price:no,700
+(PRICE 1285$)8331, av Chenier, Montreal, QC H1K 2B5::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,downtown,;Price:no
+(PRICE 850$)3400, boul de Maisonneuve O, Montreal, QC H3Z 3B8::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,downtown,;Price:no,1000
+(PRICE 563$)4, Place du Commerce, Montreal, QC H3E 1J4::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,estend,;Price:no,700
+(PRICE 697$)1175, av Bernard, Montreal, QC H2V 1V5::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,westIsland,;Price:no,700
+(PRICE 976$)5800 Boul Cavendish, Montreal, QC H4W 2T5::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,lowmount,;Price:no,1000
+(PRICE 1369$)58, rue Prince, Montreal, QC J0S 1H0::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,downtown,;Price:no
+(PRICE 546$)6817 43 Av Montreal, QC H1T 2R9::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:5 and half;location:idc,NDG,;Price:no,700
+(PRICE 1398$)7503 Rue St Denis Montreal, QC H2R 2E7::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,lowmount,;Price:no
+(PRICE 742$)3400, boul de Maisonneuve O, Montreal, QC H3Z 3B8::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,downtown,;Price:no,1000
+(PRICE 639$)251 Av Percival Montreal, QC H4X 1T8::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,estend,;Price:no,700
+(PRICE 572$)5745 17 Av Montreal, QC H1X 2R7::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,westIsland,;Price:no,700
+(PRICE 936$)3708 Rue St Hubert Montreal, QC H2L 4A2::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,lowmount,;Price:no,1000
+(PRICE 1578$)5240 Randall Av Montreal, QC H4V 2V3::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,downtown,;Price:no
+(PRICE 679$)3285 Beauséjour street, Montreal, QC H3X 4A6::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,NDG,;Price:no,700
+(PRICE 421$)101 Plateau-Mount Royal, Montreal, QC H3K 1K3::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,westIsland,;Price:no,500
+(PRICE 975$)2844 Centre Street, Montreal, QC H1C 1J5::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,downtown,;Price:no,1000
+(PRICE 634$)4, Place du Commerce, Montreal, QC H1A 5A1::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,lowmount,;Price:no,700
+(PRICE 612$)7565 Ch. Westover, Montreal, QC H1B 5N1::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,estend,;Price:no,700
+(PRICE 963$)5187 berri rue, Montreal, QC H5T 9U2::person:2;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,lowmount,;Price:no,1000
+(PRICE 489$)4574 Av du Parc, Montreal, QC H5P 2R4::person:1;Smoker:no,yes;Pets:no,cat,dog,other;size:5 and half;location:idc,westIsland,;Price:no,500
+(PRICE 572$)5745 17 Av Montreal, QC H1X 2R7::person:3;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,westIsland,;Price:no,700
+(PRICE 936$)3708 Rue St Hubert Montreal, QC H2L 4A2::person:3;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,lowmount,;Price:no,1000
+(PRICE 1578$)5240 Randall Av Montreal, QC H4V 2V3::person:3;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,downtown,;Price:no
+(PRICE 679$)3285 Beauséjour street, Montreal, QC H3X 4A6::person:3;Smoker:no,yes;Pets:no,cat,dog,other;size:3 and half;location:idc,NDG,;Price:no,700
+(PRICE 421$)101 Plateau-Mount Royal, Montreal, QC H3K 1K3::person:3;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,westIsland,;Price:no,500
+(PRICE 975$)2844 Centre Street, Montreal, QC H1C 1J5::person:4;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,downtown,;Price:no,1000
+(PRICE 634$)4, Place du Commerce, Montreal, QC H1A 5A1::person:4;Smoker:no,yes;Pets:no,cat,dog,other;size:studio;location:idc,lowmount,;Price:no,700
+(PRICE 612$)7565 Ch. Westover, Montreal, QC H1B 5N1::person:4;Smoker:no,yes;Pets:no,cat,dog,other;size:4 and half;location:idc,estend,;Price:no,700
+(PRICE 963$)5187 berri rue, Montreal, QC H5T 9U2::person:4;Smoker:no,yes;Pets:no,cat,dog,other;size:more than 5 and half;location:idc,lowmount,;Price:no,1000
+(PRICE 489$)4574 Av du Parc, Montreal, QC H5P 2R4::person:4;Smoker:no,yes;Pets:no,cat,dog,other;size:5 and half;location:idc,westIsland,;Price:no,500
